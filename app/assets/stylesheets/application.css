@@ -11,18 +11,32 @@
  *= require_self
  *= require_tree .
  */
-#font_style_color
-{
-	font-family: 'Cabin Condensed', sans-serif;
-	color:#1A7D08;
-}
+
 body
 {
 	background-image:url('golf-background.jpg');
 	background-size: 100%;
 }
 
+#font_style_color
+{
+	font-family: 'Cabin Condensed', sans-serif;
+	color:#1A7D08;
+}
+
 .jumbotron 
 {
 	opacity: 0.4;
+}
+
+#header 
+{
+   opacity: 0.8;
+
+}
+
+#footer
+{
+   opacity: 0.8;
+   
 }
