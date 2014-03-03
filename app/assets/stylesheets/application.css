@@ -15,11 +15,14 @@
 {
 	font-family: 'Cabin Condensed', sans-serif;
 	color:#1A7D08;
-
 }
 body
 {
 	background-image:url('golf-background.jpg');
-	background-color: #95a5a6;
-	
+	background-size: 100%;
+}
+
+.jumbotron 
+{
+	opacity: 0.4;
 }
